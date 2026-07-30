@@ -1,0 +1,8 @@
+.venv/
+.env
+__pycache__/
+.pytest_cache/
+reports/
+*.pyc
+node_modules/
+.promptfoo/
